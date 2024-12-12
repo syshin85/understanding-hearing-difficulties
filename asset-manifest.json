@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/understanding-hearing-difficulties/static/css/main.853bd3a9.css",
-    "main.js": "/understanding-hearing-difficulties/static/js/main.9dca01b0.js",
+    "main.css": "/understanding-hearing-difficulties/static/css/main.28db4079.css",
+    "main.js": "/understanding-hearing-difficulties/static/js/main.12acd7bb.js",
     "static/js/453.c4e055a4.chunk.js": "/understanding-hearing-difficulties/static/js/453.c4e055a4.chunk.js",
     "static/media/jazz.mp3": "/understanding-hearing-difficulties/static/media/jazz.4ecbf5e32ab21e9cd9cc.mp3",
     "static/media/funk.mp3": "/understanding-hearing-difficulties/static/media/funk.58702d320d58c91c417b.mp3",
@@ -11,12 +11,12 @@
     "static/media/Moneygraphy-Pixel.woff": "/understanding-hearing-difficulties/static/media/Moneygraphy-Pixel.b4398cac0fab02d6fcfb.woff",
     "static/media/Moneygraphy-Pixel.woff2": "/understanding-hearing-difficulties/static/media/Moneygraphy-Pixel.9d733455df2787480670.woff2",
     "index.html": "/understanding-hearing-difficulties/index.html",
-    "main.853bd3a9.css.map": "/understanding-hearing-difficulties/static/css/main.853bd3a9.css.map",
-    "main.9dca01b0.js.map": "/understanding-hearing-difficulties/static/js/main.9dca01b0.js.map",
+    "main.28db4079.css.map": "/understanding-hearing-difficulties/static/css/main.28db4079.css.map",
+    "main.12acd7bb.js.map": "/understanding-hearing-difficulties/static/js/main.12acd7bb.js.map",
     "453.c4e055a4.chunk.js.map": "/understanding-hearing-difficulties/static/js/453.c4e055a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.853bd3a9.css",
-    "static/js/main.9dca01b0.js"
+    "static/css/main.28db4079.css",
+    "static/js/main.12acd7bb.js"
   ]
 }
