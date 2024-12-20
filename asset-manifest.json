@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/understanding-hearing-difficulties/static/css/main.9a2ec079.css",
-    "main.js": "/understanding-hearing-difficulties/static/js/main.4be286e1.js",
+    "main.css": "/understanding-hearing-difficulties/static/css/main.41c3543a.css",
+    "main.js": "/understanding-hearing-difficulties/static/js/main.06a66b8b.js",
     "static/js/453.c4e055a4.chunk.js": "/understanding-hearing-difficulties/static/js/453.c4e055a4.chunk.js",
     "static/media/jazz.mp3": "/understanding-hearing-difficulties/static/media/jazz.4ecbf5e32ab21e9cd9cc.mp3",
     "static/media/funk.mp3": "/understanding-hearing-difficulties/static/media/funk.58702d320d58c91c417b.mp3",
     "static/media/hiphop.mp3": "/understanding-hearing-difficulties/static/media/hiphop.4615f6a379e099fcac57.mp3",
     "static/media/classic.mp3": "/understanding-hearing-difficulties/static/media/classic.bfd9bc078f78ff952b45.mp3",
+    "static/media/Freesentation-5Medium.ttf": "/understanding-hearing-difficulties/static/media/Freesentation-5Medium.2c05acc2bef065097fb8.ttf",
     "static/media/Moneygraphy-Pixel.woff": "/understanding-hearing-difficulties/static/media/Moneygraphy-Pixel.b4398cac0fab02d6fcfb.woff",
     "static/media/Moneygraphy-Pixel.woff2": "/understanding-hearing-difficulties/static/media/Moneygraphy-Pixel.9d733455df2787480670.woff2",
+    "static/media/AmaticSC-Bold.ttf": "/understanding-hearing-difficulties/static/media/AmaticSC-Bold.f12c1d887cda2131ac83.ttf",
     "index.html": "/understanding-hearing-difficulties/index.html",
-    "main.9a2ec079.css.map": "/understanding-hearing-difficulties/static/css/main.9a2ec079.css.map",
-    "main.4be286e1.js.map": "/understanding-hearing-difficulties/static/js/main.4be286e1.js.map",
+    "main.41c3543a.css.map": "/understanding-hearing-difficulties/static/css/main.41c3543a.css.map",
+    "main.06a66b8b.js.map": "/understanding-hearing-difficulties/static/js/main.06a66b8b.js.map",
     "453.c4e055a4.chunk.js.map": "/understanding-hearing-difficulties/static/js/453.c4e055a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a2ec079.css",
-    "static/js/main.4be286e1.js"
+    "static/css/main.41c3543a.css",
+    "static/js/main.06a66b8b.js"
   ]
 }
